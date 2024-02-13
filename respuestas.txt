@@ -6,5 +6,19 @@ Solucion preguntas capitulo 1:
     - Uso de plataformas educativas
     - Uso de proveedores de repositorios remotos
 
+2.  Factores Externos
+        - Calidad de la ruta entre el emisor y el receptor.
+        - Cantidad de veces que el mensaje tiene que cambiar la forma.
+        - Cantidad de veces que el mensaje tiene que ser redireccionado o redirigido.
+        - Cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación.
+        - Cantidad de tiempo asignado para una comunicación exitosa.
+    
+    Factores Internos
+        - Tamaño del mensaje 
+        - Complejidad del mensaje
+        - Importancia del mensaje
+
+
+
 
 
