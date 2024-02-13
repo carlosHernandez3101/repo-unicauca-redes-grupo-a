@@ -243,3 +243,27 @@ Solucion preguntas capitulo 1:
     utilizando. En un contexto de red, una PDU generalmente incluye información de encabezado, datos y, 
     en algunos casos, información de control. Dependiendo del tipo de protocolo y su función, las PDUs 
     pueden recibir nombres diferentes.
+
+7.  Los protocolos en las comunicaciones de redes son conjuntos de reglas y estándares que definen 
+    cómo los dispositivos se comunican entre sí. Estos protocolos establecen las pautas para la estructura,
+    el formato y el intercambio de datos entre los dispositivos en una red. Los protocolos aseguran que los 
+    datos se transmitan y reciban correctamente, regulan la comunicación y permiten la interoperabilidad 
+    entre dispositivos y sistemas de diferentes fabricantes y tecnologías.
+
+    El proceso de encapsulamiento de los datos se refiere a cómo los datos se empaquetan en capas 
+    sucesivas a medida que viajan a través de una red. Cada capa agrega su propio encabezado, que 
+    contiene información necesaria para guiar y controlar la comunicación en esa capa. A medida que 
+    los datos descienden a través de las capas en el remitente, cada capa añade su encabezado y se 
+    refiere al paquete completo como Unidad de Datos del Protocolo (PDU).
+
+    +-----------------------------------------------------+
+    |       Aplicación      |       Aplicación Data       |
+    +-----------------------+-----------------------------+
+    |      Transporte       |      Segment (TCP)          |
+    +-----------------------+-----------------------------+
+    |       Internet        |      Datagrama (IP)         |
+    +-----------------------+-----------------------------+
+    | Acceso a la Red (Enlace)|      Trama (Ethernet)     |
+    +-----------------------+-----------------------------+
+    |   Capa Física (Físico) |      Bits Transmitidos     |
+    +-----------------------+-----------------------------+
