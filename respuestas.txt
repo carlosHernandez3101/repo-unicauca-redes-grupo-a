@@ -85,3 +85,12 @@ Solucion preguntas capitulo 1:
     conexiones confiables y la capacidad de utilizar aplicaciones y servicios en línea sin 
     interrupciones ni degradaciones en el rendimiento.
 
+9.  Los proveedores de Internet de Nivel-1 son aquellos que tienen una infraestructura global 
+    propia y no dependen de otros proveedores para alcanzar cualquier destino en Internet y 
+    poseen una gran cantidad de enlaces de fibra óptica y redes de alta velocidad que se extienden 
+    por múltiples regiones geográficas y continentes.
+
+    Los proveedores de Internet de Nivel-2 son aquellos que compran acceso a Internet a proveedores 
+    de Nivel-1 y luego venden servicios de Internet a empresas y usuarios finales. A menudo, los 
+    proveedores de Nivel-2 tienen infraestructura regional y nacional, pero dependen de los proveedores 
+    de Nivel-1 para alcanzar destinos fuera de su red.
