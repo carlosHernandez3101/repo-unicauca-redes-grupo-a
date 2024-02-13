@@ -18,6 +18,12 @@ Solucion preguntas capitulo 1:
         - Complejidad del mensaje
         - Importancia del mensaje
 
+3.  Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+        Reglas
+        Medio
+        Mensajes
+        Dispositivos
 
 
 
