@@ -222,5 +222,12 @@ Solucion preguntas capitulo 1:
     (redes de área amplia) que están interconectadas utilizando dispositivos como enrutadores.
     Internet, por otro lado, es la red global de redes interconectadas que abarca todo el mundo. 
     Es una infraestructura masiva que permite la comunicación y el intercambio de información a nivel global.
-    
+
+4.  La tarjeta de interfaz de red (NIC) es un dispositivo de hardware que permite la conexión del 
+    dispositivo a la red. 
+    El puerto físico es el punto físico en un dispositivo donde se conecta un cable o un enchufe, 
+    el cual se conecta con un host o con otro dispositivo de red.
+    La interfaz de la red es la configuración lógica que permite que un dispositivo se comunique a 
+    través de la red, también se podría decir que son puertos especializados de un dispositivo de 
+    internetworking que se conecta con redes individuales.
 
