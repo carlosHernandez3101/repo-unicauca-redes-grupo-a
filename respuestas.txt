@@ -25,6 +25,24 @@ Solucion preguntas capitulo 1:
         Mensajes
         Dispositivos
 
+4.  A. ¿Qué son los datos? 
+
+        Información precisa acerca de algo en concreto
+
+    B. ¿Qué es una red de datos?  
+
+        Es una vía de comunicación para el envío de información a través de 
+        internet con el fin de intercambiar y compartir con otras personas sin 
+        importar su ubicación.
+
+    C. ¿Qué entiende por arquitectura de red? 
+
+        Se refiere a las tecnologías que admiten la infraestructura y a los servicios 
+        y protocolos programados que pueden trasladar los mensajes en toda esa infraestructura.
+
+    D. ¿Qué es una red convergente?
+
+        Permite la integración del flujo de voz, vídeo y datos en una misma red.
 
 
 
