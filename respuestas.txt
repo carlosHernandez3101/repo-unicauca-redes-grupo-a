@@ -267,3 +267,20 @@ Solucion preguntas capitulo 1:
     +-----------------------+-----------------------------+
     |   Capa Física (Físico) |      Bits Transmitidos     |
     +-----------------------+-----------------------------+
+
+8.  Un modelo de protocolo se centra en los detalles específicos de los protocolos individuales 
+    utilizados en una red o sistema de comunicación. Describe cómo se organiza y cómo opera un 
+    protocolo en particular. Un modelo de protocolo se enfoca en los aspectos técnicos y funcionales 
+    específicos de la comunicación y puede incluir detalles como la estructura de los mensajes, 
+    los procedimientos de manejo de errores y la secuencia de intercambio de datos para un protocolo 
+    en particular.
+
+    Un modelo de referencia, por otro lado, es un marco conceptual más amplio y general que establece 
+    una guía para cómo deberían funcionar las redes y cómo se pueden organizar las capas y funciones 
+    de la comunicación. Los modelos de referencia no se centran en protocolos individuales, sino en 
+    la arquitectura general y las interacciones entre diferentes capas de comunicación. Ayudan a 
+    estandarizar la forma en que se diseñan, implementan y gestionan las redes.
+    El modelo de referencia más conocido y utilizado es el Modelo de Interconexión de Sistemas 
+    Abiertos (OSI - Open Systems Interconnection), que consta de siete capas que describen las 
+    funciones y responsabilidades en una red. Cada capa se construye sobre la capa inferior 
+    y proporciona servicios a la capa superior. Esto es un ejemplo de un modelo de referencia.
