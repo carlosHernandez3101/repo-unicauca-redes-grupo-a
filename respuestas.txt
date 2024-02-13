@@ -69,7 +69,16 @@ Solucion preguntas capitulo 1:
     En contraste, en las redes no orientadas a la conexión, los datos se envían 
     de un dispositivo a otro sin necesidad de establecer una conexión previa.
 
+7.  Se refiere a la capacidad de una red para proporcionar diferentes niveles de 
+    servicio a diferentes tipos de tráfico sobre varios tipos de tecnologías de red.
 
+    Priorización del tráfico: Es importante establecer políticas de priorización del 
+                              tráfico para determinar qué tipo de tráfico tiene prioridad 
+                              sobre otros en situaciones de congestión.
+
+    Gestión del ancho de banda: La asignación adecuada de ancho de banda es esencial 
+                                para garantizar que las aplicaciones críticas tengan 
+                                suficiente capacidad para funcionar sin problemas.
 
 
 
