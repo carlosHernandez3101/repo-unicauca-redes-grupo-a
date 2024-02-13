@@ -122,3 +122,58 @@ Solucion preguntas capitulo 1:
     influir en la expansión de la infraestructura de red, las tarifas de acceso, la protección 
     de datos y la competencia en el mercado digital. En conjunto, buscan promover un Internet 
     abierto y accesible para todos los usuarios.
+
+
+Solucion preguntas capitulo 1:
+
+1.  La estructura de una red involucra una combinación de dispositivos, medios de comunicación 
+    y servicios que trabajan juntos para permitir la transferencia eficiente de datos y la 
+    comunicación exitosa entre usuarios y sistemas. Aquí hay una descripción general de los 
+    componentes clave:
+
+    Dispositivos de red:
+
+        Los dispositivos en una red se pueden clasificar en dos categorías principales: 
+        dispositivos finales (o dispositivos de usuario) y dispositivos intermedios 
+        (o dispositivos de red). Cada categoría cumple un papel específico en el proceso 
+        de comunicación en red.
+
+        Dispositivos Finales (Dispositivos de Usuario):
+            Estos son los dispositivos utilizados por los usuarios finales para acceder a la 
+            red y realizar diversas actividades. Los dispositivos finales interactúan directamente 
+            con los usuarios y con los servicios y recursos de la red. Algunos ejemplos de dispositivos 
+            finales son: estaciones de trabajo (Computadoras de Escritorio y Portátiles),dispositivos 
+            móviles, impresoras y escáneres, teléfonos VoIP y cámaras de seguridad.
+        Dispositivos Intermedios (Dispositivos de Red):
+            Estos dispositivos trabajan en conjunto para enrutar, conmutar y gestionar el
+            flujo de datos a través de la red. Desempeñan un papel crucial en la
+            transferencia de datos entre los dispositivos finales y aseguran que los datos
+            lleguen a su destino correcto. Algunos ejemplos de dispositivos intermedios
+            son: enrutadores, conmutadores (Switches), puntos de acceso inalámbrico y
+            firewalls.
+
+    Medios de Comunicación:
+
+        - Cableado Estructurado: Cable de cobre o fibra óptica utilizado para conectar dispositivos dentro de la red. Puede ser Ethernet para redes cableadas.
+        - Redes Inalámbricas: Utilizan señales de radio o infrarrojas para permitir la Comunicación 
+          sin cables. Ejemplos incluyen Wi-Fi y Bluetooth.
+
+    Servicios y Protocolos:
+
+        Los servicios y protocolos son elementos fundamentales en una red, ya que permiten la 
+        comunicación, el intercambio de datos y el funcionamiento eficiente de los dispositivos 
+        y aplicaciones en el entorno de red. Aquí hay una descripción de algunos servicios y 
+        protocolos clave en una red
+
+        - Protocolos de Comunicación: Conjuntos de reglas y estándares que gobiernan cómo los 
+          dispositivos se comunican entre sí. Ejemplos incluyen TCP/IP, HTTP, SMTP.
+        - Direccionamiento IP: Cada dispositivo en la red tiene una dirección IP única, 
+          lo que permite la identificación y la ruta adecuada para la comunicación.
+        - Servicios de Nombres de Dominio (DNS): Traducen nombres de dominio legibles por humanos 
+          en direcciones IP numéricas.
+        - Servicios de Resolución de Nombres (DHCP): Asigna direcciones IP dinámicamente a dispositivos 
+          en la red para facilitar la configuración automática.
+        - Servicios de Seguridad: Incluyen firewalls, sistemas de detección y prevención de 
+          intrusiones (IDS/IPS), VPN para proteger la red contra amenazas cibernéticas.
+        - Servicios de Calidad del Servicio (QoS): Prioriza y gestiona el tráfico en función 
+          de la importancia y los requisitos de ancho de banda de las aplicaciones.
