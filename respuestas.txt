@@ -94,3 +94,17 @@ Solucion preguntas capitulo 1:
     de Nivel-1 y luego venden servicios de Internet a empresas y usuarios finales. A menudo, los 
     proveedores de Nivel-2 tienen infraestructura regional y nacional, pero dependen de los proveedores 
     de Nivel-1 para alcanzar destinos fuera de su red.
+
+10. Nivel-1 (Tier-1)
+        AT&T (Estados Unidos)
+        Verizon (Estados Unidos)
+    
+    Nivel-2 (Tier-2)
+        Comcast (Estados Unidos)
+        Telefónica (España)
+
+    Proveedores en Colombia
+        Claro Colombia (Claro) y Movistar Colombia (Telefónica Movistar) 
+        se clasifican como proveedores Nivel-2 (Tier-2).
+
+
