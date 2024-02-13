@@ -231,3 +231,7 @@ Solucion preguntas capitulo 1:
     través de la red, también se podría decir que son puertos especializados de un dispositivo de 
     internetworking que se conecta con redes individuales.
 
+5.  La independencia de los protocolos con la tecnología es esencial para crear un marco común que 
+    permita la comunicación efectiva entre dispositivos y sistemas a pesar de las diferencias tecnológicas. 
+    Esto promueve la interoperabilidad, la flexibilidad y la adaptabilidad en un entorno en constante cambio.
+
