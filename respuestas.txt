@@ -216,3 +216,11 @@ Solucion preguntas capitulo 1:
       internetwork global que utiliza protocolos específicos.
     - Internet es un caso particular de internetwork que abarca todo el mundo,
       mientras que un internetwork puede ser más localizado.
+
+3.  Un internetwork, también conocido como red de redes, se refiere a la conexión y la interacción 
+    entre múltiples redes individuales. Estas redes pueden ser LANs (redes de área local) o WANs 
+    (redes de área amplia) que están interconectadas utilizando dispositivos como enrutadores.
+    Internet, por otro lado, es la red global de redes interconectadas que abarca todo el mundo. 
+    Es una infraestructura masiva que permite la comunicación y el intercambio de información a nivel global.
+    
+
