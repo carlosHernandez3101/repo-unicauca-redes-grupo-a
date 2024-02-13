@@ -235,3 +235,11 @@ Solucion preguntas capitulo 1:
     permita la comunicación efectiva entre dispositivos y sistemas a pesar de las diferencias tecnológicas. 
     Esto promueve la interoperabilidad, la flexibilidad y la adaptabilidad en un entorno en constante cambio.
 
+6.  Una Unidad de Datos del Protocolo es una unidad de información que se utiliza en los protocolos de 
+    comunicación para transmitir datos entre dispositivos en una red. La PDU es una parte fundamental 
+    en la transferencia de información a través de una red, ya que define cómo los datos se estructuran
+    y se organizan para su transmisión y recepción.
+    La estructura y el contenido de una PDU pueden variar según el protocolo específico que se esté 
+    utilizando. En un contexto de red, una PDU generalmente incluye información de encabezado, datos y, 
+    en algunos casos, información de control. Dependiendo del tipo de protocolo y su función, las PDUs 
+    pueden recibir nombres diferentes.
