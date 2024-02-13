@@ -64,4 +64,12 @@ Solucion preguntas capitulo 1:
         Consiste en proteger la red de accesos no autorizados con el fin de evitar 
         que se accedan a la información y que se pierda.
 
+6.  En las redes orientadas a la conexión, se establece una conexión explícita 
+    entre los dispositivos antes de que se pueda enviar cualquier dato. 
+    En contraste, en las redes no orientadas a la conexión, los datos se envían 
+    de un dispositivo a otro sin necesidad de establecer una conexión previa.
+
+
+
+
 
