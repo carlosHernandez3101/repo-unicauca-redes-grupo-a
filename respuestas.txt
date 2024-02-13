@@ -44,5 +44,24 @@ Solucion preguntas capitulo 1:
 
         Permite la integración del flujo de voz, vídeo y datos en una misma red.
 
+5.  A. Tolerante a fallas, 
+ 
+        Una red tolerante a fallas es la que limita el impacto de una falla del software 
+        o hardware y puede recuperarse rápidamente cuando se produce dicha falla.
+
+    B. Escalabilidad, 
+  
+        Es la red que puede expandirse para admitir a nuevos usuarios sin afectar el 
+        rendimiento del servicio.
+
+    C. Calidad del servicio
+
+        Se basa en mantener la calidad del envio de datos según la prioridad que tenga 
+        y evitar que el usuario tenga una mala experiencia con la calidad. 
+
+    D. Seguridad. Mostrar sus respectivos ejemplos. 
+
+        Consiste en proteger la red de accesos no autorizados con el fin de evitar 
+        que se accedan a la información y que se pierda.
 
 
