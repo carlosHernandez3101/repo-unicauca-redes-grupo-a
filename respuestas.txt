@@ -80,5 +80,8 @@ Solucion preguntas capitulo 1:
                                 para garantizar que las aplicaciones críticas tengan 
                                 suficiente capacidad para funcionar sin problemas.
 
-
+8.  Una red que proporciona una alta calidad de servicio garantiza una experiencia 
+    satisfactoria para los usuarios finales. Esto se traduce en tiempos de respuesta rápidos, 
+    conexiones confiables y la capacidad de utilizar aplicaciones y servicios en línea sin 
+    interrupciones ni degradaciones en el rendimiento.
 
