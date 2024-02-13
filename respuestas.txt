@@ -107,4 +107,13 @@ Solucion preguntas capitulo 1:
         Claro Colombia (Claro) y Movistar Colombia (Telefónica Movistar) 
         se clasifican como proveedores Nivel-2 (Tier-2).
 
+11. Los proveedores de Internet de Nivel-1 tienen una infraestructura global propia y mantienen 
+    conexiones directas con otros proveedores de Nivel-1 y grandes redes de contenido. Esto les 
+    permite ofrecer alta disponibilidad y redundancia en la transmisión de datos.
+
+    Por otro lado, los proveedores de Internet de Nivel-2 extienden la conectividad global a 
+    regiones donde los proveedores de Nivel-1 no tienen presencia directa. Permiten el acceso a 
+    Internet a través de acuerdos de peering y tránsito con proveedores de Nivel-1, y diversifican 
+    las rutas de Internet para mejorar la resiliencia de la red.
+
 
