@@ -116,4 +116,9 @@ Solucion preguntas capitulo 1:
     Internet a través de acuerdos de peering y tránsito con proveedores de Nivel-1, y diversifican 
     las rutas de Internet para mejorar la resiliencia de la red.
 
-
+12. La gestión y regulación de los proveedores de Internet son fundamentales para garantizar un 
+    acceso equitativo y asequible a Internet, proteger la privacidad de los usuarios, fomentar 
+    la competencia y la innovación, y mantener la neutralidad de la red. Estas políticas pueden 
+    influir en la expansión de la infraestructura de red, las tarifas de acceso, la protección 
+    de datos y la competencia en el mercado digital. En conjunto, buscan promover un Internet 
+    abierto y accesible para todos los usuarios.
