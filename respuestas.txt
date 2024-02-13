@@ -177,3 +177,42 @@ Solucion preguntas capitulo 1:
           intrusiones (IDS/IPS), VPN para proteger la red contra amenazas cibernéticas.
         - Servicios de Calidad del Servicio (QoS): Prioriza y gestiona el tráfico en función 
           de la importancia y los requisitos de ancho de banda de las aplicaciones.
+
+2.  RED:
+    Una red es un conjunto de dispositivos interconectados que pueden comunicarse y compartir 
+    recursos, puede ser de diferentes tamaños y alcances, desde pequeñas redes domésticas hasta
+    grandes redes empresariales o globales.
+
+    LAN (Red de Área Local):
+    Una LAN es una red de tamaño limitado que abarca un área geográfica pequeña, como una casa, 
+    una oficina o un edificio, las LAN generalmente utilizan tecnologías de cableado estructurado 
+    o conexiones inalámbricas para conectar dispositivos dentro del área.
+
+    WAN (Red de Área Amplia):
+    Una WAN es una red que abarca un área geográfica más amplia, como una ciudad, un país o 
+    incluso a nivel global, las WAN a menudo se construyen utilizando tecnologías como líneas 
+    telefónicas, fibra óptica o conexiones inalámbricas, y se utilizan para conectar diferentes 
+    ubicaciones geográficas.
+
+    Internetwork:
+    Un internetwork es una colección de redes interconectadas. También se conoce como una red 
+    de redes, puede incluir LAN, WAN y otras redes más pequeñas interconectadas para permitir 
+    la comunicación y el intercambio de datos entre ellas. Algunas de estas redes interconectadas 
+    pertenecen a grandes organizaciones públicas o privadas, como agencias gubernamentales o empresas 
+    industriales.
+
+    Internet:
+    Internet es un ejemplo de un internetwork global que conecta millones de redes y dispositivos 
+    en todo el mundo, es una red pública de escala mundial que utiliza el conjunto de protocolos TCP/IP 
+    para permitir la comunicación y el intercambio de datos a nivel global.
+
+    - Tanto las LAN como las WAN son tipos de redes que difieren en su alcance
+      geográfico.
+    - Tanto los internetworks como Internet implican la conexión de múltiples
+      redes para permitir la comunicación y el intercambio de datos.
+
+    - Las LAN son redes locales de alcance limitado, mientras que las WAN abarcan áreas más grandes.
+    - Un internetwork se refiere a la conexión de múltiples redes, mientras que Internet es un 
+      internetwork global que utiliza protocolos específicos.
+    - Internet es un caso particular de internetwork que abarca todo el mundo,
+      mientras que un internetwork puede ser más localizado.
